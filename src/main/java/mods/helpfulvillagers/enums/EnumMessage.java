@@ -1,5 +1,8 @@
 package mods.helpfulvillagers.enums;
 
-public class EnumMessage {
-
+public enum EnumMessage
+{
+  DEATH,  BIRTH;
+  
+  private EnumMessage() {}
 }

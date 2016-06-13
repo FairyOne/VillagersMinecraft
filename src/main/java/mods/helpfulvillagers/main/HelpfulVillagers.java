@@ -1,4 +1,3 @@
-package main;
 package mods.helpfulvillagers.main;
 
 import cpw.mods.fml.common.Mod;
